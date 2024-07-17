@@ -1,0 +1,50 @@
+.Project-heading{
+    position: relative;
+    top: 70px;
+}
+.contact-page{
+    position: relative;
+    top: 70px;
+}
+.home-page{
+    position: relative;
+    top: 50px;
+}
+.skill-page{
+    position: relative;
+    
+}
+
+
+.heading-1{
+    letter-spacing: 6px; 
+}
+.heading-2{
+    font-size: 30px;
+}
+
+
+.project .card{
+    margin: 0% 0% 10%;
+}
+.about .content{
+    margin-top: 100px;
+}
+@media only screen and (max-width: 470px){
+    .home{
+        .home-image{
+            width: 300px;
+        }
+    }
+    .about{
+        .about-image{
+            width: 300px;
+            margin-top: 80px;
+        }
+        .content{
+            margin-top: 0px;
+        }
+        
+    }
+}
+
